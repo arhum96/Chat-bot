@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-30T01:05:20" hostname="DESKTOP-3AR3809" time="0.185">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.185"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello, My name is ArhumBot.
+I was created in 2020.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
